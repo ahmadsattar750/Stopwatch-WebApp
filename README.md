@@ -1,11 +1,11 @@
 # ⏱ Stopwatch Web App
----
+
 
 ## 📌 Description
 A simple stopwatch built with **HTML, CSS, and JavaScript**.  
 It supports **start, stop, and reset** functionality, and is styled with a modern dark theme.
 
----
+
 
 ## 🚀 Features
 - Start, stop, and reset the stopwatch
@@ -14,16 +14,18 @@ It supports **start, stop, and reset** functionality, and is styled with a moder
 - Buttons are disabled/enabled logically to prevent misuse
 - Clean UI with hover effects
 
----
+
 
 ## 🛠️ Tech Stack
 - **HTML5** – structure
 - **CSS3** – styling & responsiveness
 - **JavaScript (Vanilla JS)** – stopwatch logic
 
----
+
 
 ## 📸 Preview
+
+https://github.com/user-attachments/assets/7770e243-9648-4c80-b9c1-b03778fb3235
 
 
 ## ⚡ How It Works
@@ -34,3 +36,4 @@ It supports **start, stop, and reset** functionality, and is styled with a moder
 The logic uses:
 ```js
 Date.now()
+
