@@ -36,4 +36,9 @@ https://github.com/user-attachments/assets/7770e243-9648-4c80-b9c1-b03778fb3235
 The logic uses:
 ```js
 Date.now()
+```
+
+## 🙌 Author
+Developed by **Ahmad Sattar** 
+
 
